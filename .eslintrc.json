@@ -1,0 +1,6 @@
+{
+  "extends": "jnmorse",
+  "rules": {
+      "no-console": "off"
+  }
+}
