@@ -1,0 +1,21 @@
+{
+  "name": "discord-bot",
+  "private": true,
+  "version": "0.0.1",
+  "description": "This is a discord bot for Phenom-Llane",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phenom-llane/discord-bot.git"
+  },
+  "keywords": ["discord", "bot"],
+  "author": "Joseph Morse <tamed.lionheart@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phenom-llane/discord-bot/issues"
+  },
+  "homepage": "https://github.com/phenom-llane/discord-bot#readme"
+}
